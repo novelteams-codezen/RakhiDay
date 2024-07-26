@@ -1,0 +1,24 @@
+{
+    "environment": {
+        "name": "Local",
+        "production": false
+    },
+    "appInsights": {
+        "instrumentationKey": ""
+    },
+    "logging": {
+        "console": true,
+        "appInsights": false
+    },
+    "api": {
+        "url": "https://codezenapi.azurewebsites.net"
+    },
+    "app": {
+        "title": "RakhiDay"
+    },
+    "buildInfo": {
+        "number": "1.0.0.0",
+        "createdOn": "Friday, July 26, 2024 12:47:18 PM"
+    },
+    "environments": []
+}
